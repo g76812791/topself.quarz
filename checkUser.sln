@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackRun", "BackRun\BackRun.csproj", "{F812B281-B656-4BE8-A81E-5C10F215D00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsJob", "checkUser\WindowsJob.csproj", "{0BC328D4-D2BE-4765-9607-4EC965F4B57F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F812B281-B656-4BE8-A81E-5C10F215D00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F812B281-B656-4BE8-A81E-5C10F215D00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F812B281-B656-4BE8-A81E-5C10F215D00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F812B281-B656-4BE8-A81E-5C10F215D00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC328D4-D2BE-4765-9607-4EC965F4B57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC328D4-D2BE-4765-9607-4EC965F4B57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC328D4-D2BE-4765-9607-4EC965F4B57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC328D4-D2BE-4765-9607-4EC965F4B57F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C692AEF-0895-4F1A-B866-86BEBDE69071}
+	EndGlobalSection
+EndGlobal
